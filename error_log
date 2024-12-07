@@ -1,0 +1,50 @@
+[06-Dec-2024 20:34:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'comaojtn_aracadiap.habitat' doesn't exist in /home/comaojtn/public_html/site2.comall.agency/index.php:6
+Stack trace:
+#0 /home/comaojtn/public_html/site2.comall.agency/index.php(6): PDO->query()
+#1 {main}
+  thrown in /home/comaojtn/public_html/site2.comall.agency/index.php on line 6
+[06-Dec-2024 20:34:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'comaojtn_aracadiap.habitat' doesn't exist in /home/comaojtn/public_html/site2.comall.agency/index.php:6
+Stack trace:
+#0 /home/comaojtn/public_html/site2.comall.agency/index.php(6): PDO->query()
+#1 {main}
+  thrown in /home/comaojtn/public_html/site2.comall.agency/index.php on line 6
+[06-Dec-2024 20:35:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'comaojtn_aracadiap.habitat' doesn't exist in /home/comaojtn/public_html/site2.comall.agency/index.php:6
+Stack trace:
+#0 /home/comaojtn/public_html/site2.comall.agency/index.php(6): PDO->query()
+#1 {main}
+  thrown in /home/comaojtn/public_html/site2.comall.agency/index.php on line 6
+[06-Dec-2024 20:35:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'comaojtn_aracadiap.habitat' doesn't exist in /home/comaojtn/public_html/site2.comall.agency/index.php:6
+Stack trace:
+#0 /home/comaojtn/public_html/site2.comall.agency/index.php(6): PDO->query()
+#1 {main}
+  thrown in /home/comaojtn/public_html/site2.comall.agency/index.php on line 6
+[06-Dec-2024 20:37:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'comaojtn_aracadiap.habitat' doesn't exist in /home/comaojtn/public_html/site2.comall.agency/index.php:6
+Stack trace:
+#0 /home/comaojtn/public_html/site2.comall.agency/index.php(6): PDO->query()
+#1 {main}
+  thrown in /home/comaojtn/public_html/site2.comall.agency/index.php on line 6
+[06-Dec-2024 20:38:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'comaojtn_aracadiap.habitat' doesn't exist in /home/comaojtn/public_html/site2.comall.agency/index.php:6
+Stack trace:
+#0 /home/comaojtn/public_html/site2.comall.agency/index.php(6): PDO->query()
+#1 {main}
+  thrown in /home/comaojtn/public_html/site2.comall.agency/index.php on line 6
+[06-Dec-2024 20:38:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'comaojtn_aracadiap.habitat' doesn't exist in /home/comaojtn/public_html/site2.comall.agency/index.php:6
+Stack trace:
+#0 /home/comaojtn/public_html/site2.comall.agency/index.php(6): PDO->query()
+#1 {main}
+  thrown in /home/comaojtn/public_html/site2.comall.agency/index.php on line 6
+[06-Dec-2024 20:40:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'comaojtn_aracadiap.habitat' doesn't exist in /home/comaojtn/public_html/site2.comall.agency/index.php:6
+Stack trace:
+#0 /home/comaojtn/public_html/site2.comall.agency/index.php(6): PDO->query()
+#1 {main}
+  thrown in /home/comaojtn/public_html/site2.comall.agency/index.php on line 6
+[06-Dec-2024 20:41:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'comaojtn_aracadiap.habitat' doesn't exist in /home/comaojtn/public_html/site2.comall.agency/index.php:6
+Stack trace:
+#0 /home/comaojtn/public_html/site2.comall.agency/index.php(6): PDO->query()
+#1 {main}
+  thrown in /home/comaojtn/public_html/site2.comall.agency/index.php on line 6
+[06-Dec-2024 20:42:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'comaojtn_aracadiap.habitat' doesn't exist in /home/comaojtn/public_html/site2.comall.agency/index.php:16
+Stack trace:
+#0 /home/comaojtn/public_html/site2.comall.agency/index.php(16): PDO->query()
+#1 {main}
+  thrown in /home/comaojtn/public_html/site2.comall.agency/index.php on line 16
